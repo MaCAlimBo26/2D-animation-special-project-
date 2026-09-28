@@ -39,8 +39,8 @@ I believe that every small project is a step toward becoming a better developer.
   <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://YouTube.com/">
-  <img src="https://img.shields.io/badge/YoutuBe-A855F7?style=for-the-badge&logo=Youtube &logoColor=white">
+<a href="https://youtube.com/">
+  <img src="https://img.shields.io/badge/YoutuBe-A855F7?style=for-the-badge&logo=youtube &logoColor=white">
 </a>
 
 </p>
