@@ -47,7 +47,7 @@ I'm an Information Technology student who enjoys learning about technology, prog
 
 ## 🚀 Projects
 
-### 🌐 Web Development
+### 🌐 IS Student
 
 Building simple and useful websites while improving my HTML, CSS, and JavaScript skills.
 
