@@ -27,21 +27,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🌐 Web Development
-
-Building simple and useful websites while improving my HTML, CSS, and JavaScript skills.
-
-### 📊 Data & Web Mining
-
-Learning how data can be collected, analyzed, and used to discover useful information.
-
-### 🔐 Cybersecurity
-
-Exploring basic cybersecurity concepts, data protection, and safe computing practices.
-
----
 
 ## 🎯 My Goals
 
