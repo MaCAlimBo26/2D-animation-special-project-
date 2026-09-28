@@ -5,7 +5,7 @@
 ### 💻 IS Student | 🌱 Future Developer | 🚀 IS Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IS+Student;Learning+Web+Development;Building+My+Future+in+Information System+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IS+Student;Learning+Web+Development;Building+My+Future+in+IS+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 ---
