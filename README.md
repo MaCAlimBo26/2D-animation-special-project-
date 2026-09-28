@@ -40,7 +40,7 @@ I believe that every small project is a step toward becoming a better developer.
 </a>
 
 <a href="https://YouTube.com/">
-  <img src="https://img.shields.io/badge/YouTube-A855F7?style=for-the-badge&logo=Youtube &logoColor=white">
+  <img src="https://img.shields.io/badge/YoutuBe-A855F7?style=for-the-badge&logo=Youtube &logoColor=white">
 </a>
 
 </p>
