@@ -10,17 +10,9 @@
 
 
 
-
-
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaCAlimbo26&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaCAlimbo26&layout=compact&theme=tokyonight)
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaCAlimbo26)
 
 ## 🔥 GitHub Streak
 
