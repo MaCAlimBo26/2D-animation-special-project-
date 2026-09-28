@@ -3,14 +3,14 @@
 ### 💻 IT Student | 🌱 Future Developer | 🚀 IS Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IT+Student;Learning+Web+Development;Building+My+Future+in+Tech+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IS+Student;Learning+Web+Development;Building+My+Future+in+Tech+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm an Information Technology student who enjoys learning about technology, programming, databases, networking, and web development.
+I'm an Information system student who enjoys learning about technology, programming, databases, networking, and web development.
 
 - 🎓 Currently studying Information Technology
 - 💻 Learning Web Development & Programming
