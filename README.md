@@ -1,6 +1,10 @@
 
+p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=I'm+an+Patris Macalimbo;alt="Typing Animation">
+</p>
 
-                                Patris Macalimbo
+---
+                                
 
 ### 💻 IS Student | 🌱 Future Developer | 🚀 IS Enthusiast
 
