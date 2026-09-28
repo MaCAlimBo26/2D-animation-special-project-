@@ -8,17 +8,7 @@
 
 ---
 
-## 🌟 About Me
 
-I'm an Information system student who enjoys learning about technology, programming, databases, networking, and web development.
-
-- 🎓 Currently studying Information Technology
-- 💻 Learning Web Development & Programming
-- 🌐 Interested in Web Mining, Data, and Cybersecurity
-- 📚 Always learning something new
-- 🚀 Goal: Become a successful IT professional
-
----
 
 ## 🛠️ My Skills
 
