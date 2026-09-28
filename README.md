@@ -2,30 +2,10 @@
 
 # 👋 Patris Macalimbo
 
-### 💻 IT Student | 🌱 Future Developer | 🚀 Tech Enthusiast
+### 💻 IS Student | 🌱 Future Developer | 🚀 IS Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+an+IT+Student;Learning+Web+Development;Building+My+Future+in+Tech+%F0%9F%9A%80" alt="Typing Animation">
-</p>
-
----
-
-## 🌟 About Me
-
-I'm an Information Technology student who enjoys learning about technology, programming, databases, networking, and web development.
-
-- 🎓 Currently studying Information Technology
-- 💻 Learning Web Development & Programming
-- 🌐 Interested in Web Mining, Data, and Cybersecurity
-- 📚 Always learning something new
-- 🚀 Goal: Become a successful IT professional
-
----
-
-## 🛠️ My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
 </p>
 
 ---
